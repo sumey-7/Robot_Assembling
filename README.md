@@ -20,7 +20,7 @@ Welcome to the technical documentation of the assembly and mechanical design str
 ## 🔗 Live CAD Model Access
 You can view, inspect, and collaborate on the live Onshape model through the link below (Public Sharing Enabled):
 
-👉 **[Click Here to Access the Live Onshape Assembly Model](https://cad.onshape.com)** *(Replace this placeholder with your actual shareable public Onshape document link)*++
+👉 **[Click Here to Access the Live Onshape Assembly Model]([https://cad.onshape.com](https://cad.onshape.com/documents/bd7a0bea55eea93531941c04/w/a3c836c2a17439c7137bd585/e/96fb98fe7ebec88bf06825f1?renderMode=0&leftPanel=false&uiState=6a74ca892b021c0b1041c7a1))** *(Replace this placeholder with your actual shareable public Onshape document link)*++
 
 ## 🔗 Live CAD Model Access
 
